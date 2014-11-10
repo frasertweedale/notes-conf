@@ -87,3 +87,18 @@ Vulnerable code:
 Disk corruption:
 
 - if device is unattended, attacker could easily corrupt disk
+
+
+Follow-up
+---------
+
+Asked Hugh about IdM support for disk encryption:
+
+  Quick question in follow-up to your OSDC talk.  Are you aware of
+  any disk encryption schemes that support centralised key
+  management of some kind?  e.g., one workflow (of perhaps many)
+  might be: keys escrowed by an identity management system and
+  supplied to a client upon successful login to decrypt homedir?
+
+  Let me know if you are aware of anything along these or related
+  lines.
