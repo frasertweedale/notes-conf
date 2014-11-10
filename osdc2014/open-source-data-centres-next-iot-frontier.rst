@@ -76,3 +76,18 @@ More info:
 - oBIX committee: www.obix.org
 - community: http://onedc.com/community/index.html
 - Keith.Miller@NEXTDC.com
+
+
+Follow-up
+---------
+
+Follow up sent to Keith Miller:
+
+  I had a quick look at the OBIX v1.1 draft which states that
+  authentication and encryption are left as a transport issue, and
+  privileges and user management are left as a vendor implementation
+  issue.
+
+  Do you have any comments or can you point to any resources about
+  existing or proposed ways to leverage PKI or integrate with
+  identity management systems in oBIX or related systems.
