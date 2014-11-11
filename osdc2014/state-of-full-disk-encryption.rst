@@ -102,3 +102,7 @@ Asked Hugh about IdM support for disk encryption:
 
   Let me know if you are aware of anything along these or related
   lines.
+
+In reply, Hugh mentioned that he did look into key escrow systems a
+while back; would have to dig up notes, but the gist was an n-of-m
+secret splitting method.

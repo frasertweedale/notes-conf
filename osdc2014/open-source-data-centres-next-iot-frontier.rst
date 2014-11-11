@@ -91,3 +91,8 @@ Follow up sent to Keith Miller:
   Do you have any comments or can you point to any resources about
   existing or proposed ways to leverage PKI or integrate with
   identity management systems in oBIX or related systems.
+
+
+Response indicates that they are settling on SAML authorisation for
+most larger deployments, and 2FA.  No substantial use of X.509/PKI
+at this time.
