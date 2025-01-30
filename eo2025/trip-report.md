@@ -91,7 +91,7 @@ Red Hat associates who contributed to the success of the conference!
   little about a real-world user's risk of exploitability or
   exploitation.  The biggest risk is usually the user themselves,
   through poor security hygiene or insider threats.  The [*Exploit
-  Preduction Scoring System (EPSS)*](https://www.first.org/epss/)
+  Prediction Scoring System (EPSS)*](https://www.first.org/epss/)
   was brought up during the Q&A.
 
 - [*Towards Editing Programs via Abstract Syntax Trees*][talk-ast]
